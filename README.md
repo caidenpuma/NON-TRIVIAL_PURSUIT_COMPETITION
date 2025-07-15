@@ -99,7 +99,7 @@ function F = compute_f_BowerPower(t,Frmax,Fymax,amiapredator,pr,vr,Er,py,vy,Ey)
 
 ## Usage Instructions
 
-1. **Setup:** Place the `compute_f_BowerPower.m` file in your MATLAB working directory
+1. **Setup:** Place the `MATLAB_CODE.m` file in your MATLAB working directory
 2. **Testing:** Use the provided `function_tester.p` to validate implementation
 4. **Customization:** Modify strategy parameters within the conditional blocks
 
